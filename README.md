@@ -19,7 +19,7 @@ This project leverages machine learning and real-time weather data integration t
 ---
 
 ## **System Architecture**  
-![Architecture Diagram](link-to-diagram)  
+ 
 - **Input:** City name, real-time weather data, historical datasets.  
 - **Process:** Data preprocessing → ML model predictions → Results processing.  
 - **Output:** Flood risk level and actionable insights.  
@@ -31,23 +31,7 @@ This project leverages machine learning and real-time weather data integration t
 - **Frontend:** HTML, CSS, JavaScript.  
 - **APIs:** OpenWeather API for real-time weather data.  
 - **ML Models:** RandomForestClassifier, RandomForestRegressors.  
-
----
-
-## **Installation and Setup**  
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/yourusername/natural-disaster-prediction.git  
-   ```  
-2. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-3. Run the Flask application:  
-   ```bash  
-   python app.py  
-   ```  
-4. Access the app at `http://localhost:5000`.  
+  
 
 ---
 
